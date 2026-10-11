@@ -1,0 +1,5 @@
+Python 3.11.4 (main, Jun 20 2023, 16:59:59) [GCC 11.2.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> from emotion_detection import emotion_detector
+>>> emotion_detector("I love this new technology.")
+'{"emotionPredictions":[{"emotion":{"anger":0.006275727,"disgust":0.0025587748,"fear":0.009251528,"joy":0.9689259,"sadness":0.019741276},"target":""}],"producerId":{"name":"Natural Language Processing","version":"0.0.1"}}'
