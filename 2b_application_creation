@@ -1,3 +1,4 @@
+theia@ibmskillsnetwork:/home/project/final_project$ python3.11
 Python 3.11.4 (main, Jun 20 2023, 16:59:59) [GCC 11.2.0] on linux
 Type "help", "copyright", "credits" or "license" for more information.
 >>> from emotion_detection import emotion_detector
